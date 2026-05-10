@@ -1,0 +1,12 @@
+sort1 uses:
+Bubble sort
+How do you know?:
+it shows moderate perfomance
+sort2 uses:
+Merge sort
+How do you know?:
+it performed best across sorted, random and reversed dataset
+sort3 uses: TODO
+selection sort
+How do you know?: TODO
+It is the slowest among the other sorts
